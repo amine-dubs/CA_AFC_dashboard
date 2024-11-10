@@ -3,4 +3,4 @@ pandas
 numpy
 seaborn
 matplotlib
-plotly.express
+plotly
